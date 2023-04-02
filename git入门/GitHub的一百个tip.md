@@ -7,10 +7,10 @@
 2. 修改本机的host文件
    打开“C:\Windows\System32\drivers\etc”，使用记事本修改“hosts”文件
    将“[复制得到的最小的TLL值的ip地址填入] www.github.com” 写入hosts文件中
-   <img src="D:\洪泽毫\大三\MyLearningNotesBook\img\github1.jpg" alt="github1" style="zoom: 33%;" />
+   <img src="D:\!nanshabu\big3\MyLearningNotesBook\img\github1.jpg" alt="github1" style="zoom: 33%;" />
 3. 刷新电脑dns缓存
    打开cmd.exe程序，输入“ipconfig/flushdns”
-   <img src="D:\洪泽毫\大三\MyLearningNotesBook\img\github2.jpg" alt="github2" style="zoom:33%;" />
+   <img src="D:\!nanshabu\big3\MyLearningNotesBook\img\github2.jpg" alt="github2" style="zoom:33%;" />
 4. 浏览器访问“www.github.com”
 
 ##### 二、Git出现 SSL certificate problem: unable to get local issuer certificate...
