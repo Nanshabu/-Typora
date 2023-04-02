@@ -1,6 +1,6 @@
 ES6-13
 
-![1667049967417](D:\nanshabu\big3\MyLearningNotesBook\img\1667049967417.jpg)
+![1667049967417](D:\!nanshabu\big3\MyLearningNotesBook\img\1667049967417.jpg)
 
 #### let，var和const
 
@@ -42,8 +42,8 @@ ES6-13
    ```
 
 4. “let先使用再定义”（补充上一条）
-   ![1667052203828](D:\nanshabu\big3\MyLearningNotesBook\img\es6\1667052203828.jpg)
-   ![1667052276905](D:\nanshabu\big3\MyLearningNotesBook\img\es6\1667052276905.jpg)
+   ![1667052203828](D:\!nanshabu\big3\MyLearningNotesBook\img\es6\1667052203828.jpg)
+   ![1667052276905](D:\!nanshabu\big3\MyLearningNotesBook\img\es6\1667052276905.jpg)
    
 4. var与window挂钩，会自动成为window的属性，let不会
 
@@ -218,7 +218,7 @@ object.freeze({})冻结对象的最初级属性，除非属性里面还有对象
    console.log(newlist)
    ```
 
-   ![1667120139482](D:\nanshabu\big3\MyLearningNotesBook\img\ES6\1667120139482.jpg)
+   ![1667120139482](D:\!nanshabu\big3\MyLearningNotesBook\img\ES6\1667120139482.jpg)
 
 4. 模板字符串还支持三目运算符
 

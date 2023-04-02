@@ -2,13 +2,13 @@
 
 学完了前端三件套包括ajax，对于前端的知识进行一个梳理和实战，所以就那这个经典的五十个项目实战来操练操练。这个是五十个前端项目的官方地址：[50个前端实战项目](http://50projects50days.com/)
 
-我自己也是上传到了github上进行展示：nanshabu.github.io/50projects50days
+我自己也是上传到了github上进行展示：!nanshabu.github.io/50projects50days
 
 使用github部署静态网页还是很cool的，具体可以查看:[如何在github上部署静态网页](http://t.zoukankan.com/jiaoshou-p-13420031.html)
 
 ### 一、Expanding-cards伸缩卡片
 
-<img src="D:\nanshabu\big3\MyLearningNotesBook\img\expanding-cards.jpg" alt="expanding-cards" style="zoom:50%;" />
+<img src="D:\!nanshabu\big3\MyLearningNotesBook\img\expanding-cards.jpg" alt="expanding-cards" style="zoom:50%;" />
 
 核心知识点：通过动画transition的形式改变子元素flex属性在父元素container中的占比来实现卡片的特写展示
 
@@ -71,7 +71,7 @@
 
 ### 二、progress-steps进度步骤
 
-<img src="D:\nanshabu\big3\MyLearningNotesBook\img\project1_screen_shot.jpg" alt="project1_screen_shot" style="zoom: 50%;" />
+<img src="D:\!nanshabu\big3\MyLearningNotesBook\img\project1_screen_shot.jpg" alt="project1_screen_shot" style="zoom: 50%;" />
 
 实现原理：设置伪类元素为空进度条，创建单独的控制条，通过改变该元素的width实现进度条的递进或递减。同时需要判断点亮多少个路标让prev和next该处于什么状态。
 
@@ -133,7 +133,7 @@
 
 ### 三、rotating-nav-animation
 
-<img src="D:\nanshabu\big3\MyLearningNotesBook\img\rotating-nav-animation.jpg" alt="rotating-nav-animation" style="zoom: 50%;" />
+<img src="D:\!nanshabu\big3\MyLearningNotesBook\img\rotating-nav-animation.jpg" alt="rotating-nav-animation" style="zoom: 50%;" />
 
 1. #### <nav>元素
 
@@ -188,7 +188,7 @@ ease-in-out：规定以慢速开始至结束的过渡效果。
 
 ### 四、Hidden-search
 
-<img src="D:\nanshabu\big3\MyLearningNotesBook\img\hidden-search.jpg" alt="hidden-search" style="zoom:50%;" />
+<img src="D:\!nanshabu\big3\MyLearningNotesBook\img\hidden-search.jpg" alt="hidden-search" style="zoom:50%;" />
 
 核心攻克：通过调整position: absoluted使得button可以覆盖在input上，之后对输入框的width做调整以及按钮的位置做调整即可。
 
@@ -208,7 +208,7 @@ ease-in-out：规定以慢速开始至结束的过渡效果。
    background-image: linear-gradient(45deg,#87f 60%,#f78 60%);
    ```
 
-   ![a8fd81381c4a8da249ceed26aedd7260](D:\nanshabu\big3\MyLearningNotesBook\img\a8fd81381c4a8da249ceed26aedd7260.png)
+   ![a8fd81381c4a8da249ceed26aedd7260](D:\!nanshabu\big3\MyLearningNotesBook\img\a8fd81381c4a8da249ceed26aedd7260.png)
 
    除此之外，linear-gradient可以用于渐变色或者在图片做覆盖渐变
 
@@ -216,7 +216,7 @@ ease-in-out：规定以慢速开始至结束的过渡效果。
    background:linear-gradient(250deg,#a0a 30%,rgba(0,0,0,0) 90%),url('XXX.png');
    ```
 
-   <img src="D:\nanshabu\big3\MyLearningNotesBook\img\linear-gradient.jpg" alt="linear-gradient" style="zoom:50%;" />
+   <img src="D:\!nanshabu\big3\MyLearningNotesBook\img\linear-gradient.jpg" alt="linear-gradient" style="zoom:50%;" />
 
 
 ### 五、Blurry-roading
@@ -267,7 +267,7 @@ width | height: calc(100vh|100vw + 10px)
 
 ### 六、scroll-animation
 
-![scroll-animation](D:\nanshabu\big3\MyLearningNotesBook\img\scroll-animation.gif)
+![scroll-animation](D:\!nanshabu\big3\MyLearningNotesBook\img\scroll-animation.gif)
 
 1. css-复习一下flex盒子的居中方法
 
@@ -307,13 +307,13 @@ width | height: calc(100vh|100vw + 10px)
 
    getBoundingClientRect方法用于获得页面中某个元素的左，上，右和下分别相对浏览器视窗的位置。
 
-   <img src="D:\nanshabu\big3\MyLearningNotesBook\img\1666667749575.jpg" alt="1666667749575" style="zoom: 67%;" />
+   <img src="D:\!nanshabu\big3\MyLearningNotesBook\img\1666667749575.jpg" alt="1666667749575" style="zoom: 67%;" />
 
    通过比对box.getBoundingClientRect().top和window.innerHeight来判断盒子是否可以弹出，再将此方法加入到scroll事件中，即可实现本话功能。
 
 ### 七、Split Landing Page
 
-![split landing page](D:\nanshabu\big3\MyLearningNotesBook\img\split landing page.gif)
+![split landing page](D:\!nanshabu\big3\MyLearningNotesBook\img\split landing page.gif)
 
 1. css-声明属性
 
@@ -391,7 +391,7 @@ width | height: calc(100vh|100vw + 10px)
 
 ### 八、form-input-wave
 
-<img src="D:\nanshabu\big3\MyLearningNotesBook\img\form-input-wave.gif" alt="form-input-wave" style="zoom:80%;" />
+<img src="D:\!nanshabu\big3\MyLearningNotesBook\img\form-input-wave.gif" alt="form-input-wave" style="zoom:80%;" />
 
 1. css-使用padding来实现居中
 
@@ -462,7 +462,7 @@ labels.forEach(label => {
 
 ### 九、Sound Board
 
-![1666919826316](D:\nanshabu\big3\MyLearningNotesBook\img\1666919826316.jpg)
+![1666919826316](D:\!nanshabu\big3\MyLearningNotesBook\img\1666919826316.jpg)
 
 点击各个按钮会发出不一样很尴尬的声音😅，但重点肯定不是这上面，咱看一下html代码先。
 
@@ -590,11 +590,11 @@ function stopSongs(){
 
    <audio id="applause" src="sounds/applause.mp3" controls></audio>
 
-   ![1666923999381](D:\nanshabu\big3\MyLearningNotesBook\img\1666923999381.jpg)
+   ![1666923999381](D:\!nanshabu\big3\MyLearningNotesBook\img\1666923999381.jpg)
 
 ### 十、Dad Jokes
 
-![1667957995549](D:\nanshabu\big3\MyLearningNotesBook\img\1667957995549.jpg)
+![1667957995549](D:\!nanshabu\big3\MyLearningNotesBook\img\1667957995549.jpg)
 
 1. box-sizing: border-box;
 
